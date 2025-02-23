@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "parsec.app"
+      ]
+      "domain_keyword": "parsec"
+    }
+  ]
+}
